@@ -12,6 +12,9 @@
       <img src="/caozhong_banshen_size2.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
+  <tr>
+    <a href="/index-en.html">英文版</a>
+  </tr>
 </table>
 
 You can use the [editor on GitHub](https://github.com/czisok/czisok.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
