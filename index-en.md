@@ -2,11 +2,11 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>曹仲</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>北京交通大学计算机与信息技术学院</b></p>
-      <p><b>邮箱：caozhong@bjtu.edu.cn</b></p>
-      <p><b>地址：北京市海淀区北京交通大学知行大厦</b></p>
+      <h1>Zhong Cao</h1>
+      <p><b>postgraduate</b></p>
+      <p><b>School of Computer and Information Technology, Beijing Jiaotong University, Beijing, China</b></p>
+      <p><b>Beijing Key Laboratory of Traffic Data Analysis and Mining, Beijing, China</b></p>
+      <p><b>email：caozhong@bjtu.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="/caozhong_banshen_size2.jpg" width="100%">      
