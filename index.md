@@ -13,7 +13,7 @@
     </td>
   </tr>
   <tr>
-    <a href="/index-en.html">英文版</a>
+    <a href="/index-en.html">English Version</a>
   </tr>
 </table>
 
