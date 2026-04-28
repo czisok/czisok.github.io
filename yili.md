@@ -1,4 +1,6 @@
-<img src="/yili_luxian.png" alt="描述" width="70%" >
+<img src="/yili_luxian.png" alt="描述" width="100%" >  
+
+
 4.29: 落地天山机场 ✅  
 &emsp;&emsp;住宿:乌鲁木齐163×2=326  
 
