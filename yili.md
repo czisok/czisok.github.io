@@ -1,6 +1,5 @@
 <img src="/yili_luxian.png" alt="描述" width="100%" >  
 
-
 4.29: 落地天山机场 ✅  
 &emsp;&emsp;住宿:乌鲁木齐163×2=326  
 
@@ -8,9 +7,9 @@
 &emsp;&emsp;天气：☀️  
 &emsp;&emsp;上午： 早饭、买点物资，天气好则早出发去赛里木湖  
 &emsp;&emsp;下午： 17点左右到赛里木湖、游玩三四小时、看日落  
-&emsp;&emsp;<span style="color: red;">住宿： 赛里木湖东门405×2=810  </span>  
 &emsp;&emsp;门票： 145×2+110×2=510  
 &emsp;&emsp;next station:	none  
+&emsp;&emsp;<span style="color: red;">住宿： 赛里木湖东门405×2=810  </span>  
 
 5.1: 赛里木湖 -> 伊宁市 150KM  
 &emsp;&emsp;天气：☀️  
